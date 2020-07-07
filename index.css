@@ -1,0 +1,23 @@
+body {
+    background-color: pink;
+}
+
+.btn {
+    cursor: pointer;
+}
+
+body {
+    color: darkslateblue;
+}
+
+.clicked {
+    color: darkolivegreen;
+}
+
+.form{
+    display: none;
+}
+
+.showing {
+    display: block;
+}
